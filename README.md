@@ -7,17 +7,18 @@ For more information about algorithm see: [Prim's Algorithm](https://en.wikipedi
 
 
 ### Demo
-![Demo](./assets/2.gif "Demo")
+![Demo](./assets/demo.gif "Demo")
 
 ### How to compile
 1. You need to have SFML installed. In case you don't have it, follow this guide: [SFML installation](https://www.sfml-dev.org/download/sfml/2.5.1/)
 2. Clone this repository
 3. Navigate to the root of this repo
-4. run `make`. In case of any errors inspect the `Makefile` and configure it for your local environment
-5. run executable from `/bin/`
+4. Run `make`. In case of any errors inspect the `Makefile` and configure it for your local environment
+5. Navigate to `/bin/` folder
+6. run `./prims_visualizer`
 
 ### How to use
-![Controls demo](./assets/1.gif "Controls demo")
+![Controls demo](./assets/controls.gif "Controls demo")
 
 interaction with the program is carried out using keyboard and mouse:
 - Press `A` to create vertex at mouse current position
