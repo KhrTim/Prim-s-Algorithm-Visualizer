@@ -25,7 +25,7 @@ interaction with the program is carried out using keyboard and mouse:
 - Press `X` to remove vertex/edge at mouse current position
 - Press `0-9` numbers to increase weight of an edge which is currently pointed by mouse
 - Press `Backspace` decrease weight of an edge which is currently pointed by mouse
-- Click and drag `Mouse Right Button` to create edge between 2 vertices
-- Click and drag `Mouse Left Button` to move a vertex
-- Click and drag `Mouse Middle Button` to move the canvas around
+- Hold and drag `Mouse Right Button` to create edge between 2 vertices
+- Hold and drag `Mouse Left Button` to move a vertex
+- Hold and drag `Mouse Middle Button` to move the canvas around
 - Press `Space` to start Prim's algorithm animation
