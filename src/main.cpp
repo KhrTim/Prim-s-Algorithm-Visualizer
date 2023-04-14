@@ -34,7 +34,7 @@ int main() {
   window.setFramerateLimit(120);
 
   sf::Font font;
-  if (!font.loadFromFile("./assets/Ubuntu-L.ttf")) {
+  if (!font.loadFromFile("../assets/Ubuntu-L.ttf")) {
       std::cout << "[ERROR] Font was not loaded\n";
   }
   PrimsAlgorithm prim;
